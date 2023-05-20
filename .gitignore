@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Build files
+dist/
+build/
+*.exe
+*.dll
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and testing
+logs/
+*.log
+results/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
