@@ -71,7 +71,7 @@ Once the application is running, you can use Postman or any API testing tool to 
   - `age` (number, required): User's age (must be a positive integer).
   - `email` (string, required): User's email (must be a valid email address).
   - `phoneNumber` (string, required): User's phone number (must be in the format "+374xxxxxxxx").
-  - `gender` (string, required): User's gender ("male", "female", or "other").
+  - `gender` (string, required): User's gender ("male", "female").
   - `nationality` (string, optional): User's nationality.
   - `livingCountry` (string, optional): User's living country.
 - Response:
